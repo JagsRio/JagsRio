@@ -39,6 +39,8 @@ Most projects involve proprietary HIPAA-compliant healthcare systems — happy t
 
 Here are some public projects showcasing real-world solutions:
 
+- **[google-ads-reporting-tool](https://github.com/JagsRio/google-ads-reporting-tool)** - A **Windows Forms application** built with **C# and .NET** that automates extraction of keyword-level click and engagement data from Google Ads campaigns. Ideal for marketing analytics and performance reporting, this project demonstrates integration with the Google Ads API and automated report generation.
+
 - **[enterprise-data-mapping-tool](https://github.com/JagsRio/enterprise-data-mapping-tool)** - A sanitized, portfolio-ready Windows Forms application that demonstrates how internal data-mapping and product-onboarding tools are built in real enterprise environments. This project focuses on data normalization, manual & automated workflows, and UI-driven automation, while intentionally omitting proprietary schemas, credentials, and production endpoints.
   
 - **[pms-ui-automation-sample](https://github.com/JagsRio/pms-ui-automation-sample)** – VB.NET desktop UI automation sample for extracting dental insurance eligibility data from web portals. Demonstrates robust error handling and data parsing in healthcare workflows.
@@ -70,6 +72,7 @@ Outside coding, I regularly volunteer at my local temple — giving back to the 
 
 
 Thanks for stopping by! Let's build something great together. 🚀
+
 
 
 
