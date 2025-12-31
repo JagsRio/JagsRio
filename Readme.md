@@ -3,7 +3,7 @@
 Versatile Full Stack Developer with **15+ years** of experience in web technologies. Expertise in both frontend (JavaScript, React, HTML/CSS) and backend (.NET, Node.js, Java Spring Boot, SQL).
 
 **Microsoft Azure Data Fundamentals (DP-900)** certified ✅  
-**AWS Certified Solutions Architect – Associate** (planning 2025) ✅  
+**AWS Certified Solutions Architect – Associate** (planning 2026) ✅  
 
 Passionate about building impactful software in healthcare, technology, financial services, and education.
 
@@ -51,7 +51,7 @@ Here are some public projects showcasing real-world solutions:
 
 - Bachelor of Science in Physics — University of Madras
 - Microsoft Azure Data Fundamentals (DP-900)
-- AWS Certified Solutions Architect – Associate (2025)
+- AWS Certified Solutions Architect – Associate (2026)
 - AWS Academy Cloud Foundations Graduate
 
 ## What Drives Me
@@ -67,5 +67,6 @@ Outside coding, I regularly volunteer at my local temple — giving back to the 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jags-tang)
 - 📞 714-552-2276
 - 🌐 Portfolio: https://app.revature.com/profile/Jags/6ffa43765b6009c083e733e861e18f59
+
 
 Thanks for stopping by! Let's build something great together. 🚀
