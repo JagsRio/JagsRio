@@ -45,6 +45,8 @@ Here are some public projects showcasing real-world solutions:
 
 - **[production-metrics-processor](https://github.com/JagsRio/production-metrics-processor)** – Automated system (VB.NET) for processing operational metrics and generating reports — real example of enterprise-level data automation and scheduling.
 
+- **[dental-chatbot-automation-service](https://github.com/JagsRio/dental-chatbot-automation-service)** - Automates interactions with a web-based chat system using Selenium WebDriver in VB.NET. This project demonstrates how to automate a multi-step chat workflow, process entities, and handle dynamic questions in a structured and maintainable way.
+
 ## Education & Certifications
 
 - Bachelor of Science in Physics — University of Madras
@@ -56,7 +58,6 @@ Here are some public projects showcasing real-world solutions:
 
 My personal motto: **"I can learn anything and excel at it."**  
 I thrive on solving complex problems and delivering meaningful impact.
-
 Outside coding, I regularly volunteer at my local temple — giving back to the community is as rewarding as any professional achievement.
 
 ## Let's Connect
@@ -67,4 +68,5 @@ Outside coding, I regularly volunteer at my local temple — giving back to the 
 
 
 Thanks for stopping by! Let's build something great together. 🚀
+
 
