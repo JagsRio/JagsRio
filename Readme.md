@@ -47,6 +47,8 @@ Here are some public projects showcasing real-world solutions:
 
 - **[dental-chatbot-automation-service](https://github.com/JagsRio/dental-chatbot-automation-service)** - Automates interactions with a web-based chat system using Selenium WebDriver in VB.NET. This project demonstrates how to automate a multi-step chat workflow, process entities, and handle dynamic questions in a structured and maintainable way.
 
+- **[enterprise-data-mapping-tool](https://github.com/JagsRio/enterprise-data-mapping-tool)** - A sanitized, portfolio-ready Windows Forms application that demonstrates how internal data-mapping and product-onboarding tools are built in real enterprise environments. This project focuses on data normalization, manual & automated workflows, and UI-driven automation, while intentionally omitting proprietary schemas, credentials, and production endpoints.
+
 ## Education & Certifications
 
 - Bachelor of Science in Physics — University of Madras
@@ -68,5 +70,6 @@ Outside coding, I regularly volunteer at my local temple — giving back to the 
 
 
 Thanks for stopping by! Let's build something great together. 🚀
+
 
 
