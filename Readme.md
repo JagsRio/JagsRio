@@ -39,6 +39,8 @@ Most projects involve proprietary HIPAA-compliant healthcare systems — happy t
 
 Here are some public projects showcasing real-world solutions:
 
+- **[enterprise-data-mapping-tool](https://github.com/JagsRio/enterprise-data-mapping-tool)** - A sanitized, portfolio-ready Windows Forms application that demonstrates how internal data-mapping and product-onboarding tools are built in real enterprise environments. This project focuses on data normalization, manual & automated workflows, and UI-driven automation, while intentionally omitting proprietary schemas, credentials, and production endpoints.
+  
 - **[pms-ui-automation-sample](https://github.com/JagsRio/pms-ui-automation-sample)** – VB.NET desktop UI automation sample for extracting dental insurance eligibility data from web portals. Demonstrates robust error handling and data parsing in healthcare workflows.
 
 - **[eligibility-monitoring-service](https://github.com/JagsRio/eligibility-monitoring-service)** – Production-grade Windows service (VB.NET) that continuously monitors and processes dental patient insurance eligibility, ensuring up-to-date records for clinics.
@@ -46,8 +48,6 @@ Here are some public projects showcasing real-world solutions:
 - **[production-metrics-processor](https://github.com/JagsRio/production-metrics-processor)** – Automated system (VB.NET) for processing operational metrics and generating reports — real example of enterprise-level data automation and scheduling.
 
 - **[dental-chatbot-automation-service](https://github.com/JagsRio/dental-chatbot-automation-service)** - Automates interactions with a web-based chat system using Selenium WebDriver in VB.NET. This project demonstrates how to automate a multi-step chat workflow, process entities, and handle dynamic questions in a structured and maintainable way.
-
-- **[enterprise-data-mapping-tool](https://github.com/JagsRio/enterprise-data-mapping-tool)** - A sanitized, portfolio-ready Windows Forms application that demonstrates how internal data-mapping and product-onboarding tools are built in real enterprise environments. This project focuses on data normalization, manual & automated workflows, and UI-driven automation, while intentionally omitting proprietary schemas, credentials, and production endpoints.
 
 ## Education & Certifications
 
@@ -70,6 +70,7 @@ Outside coding, I regularly volunteer at my local temple — giving back to the 
 
 
 Thanks for stopping by! Let's build something great together. 🚀
+
 
 
 
