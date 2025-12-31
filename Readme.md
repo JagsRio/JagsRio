@@ -45,8 +45,6 @@ Here are some public projects showcasing real-world solutions:
 
 - **[production-metrics-processor](https://github.com/JagsRio/production-metrics-processor)** – Automated system (VB.NET) for processing operational metrics and generating reports — real example of enterprise-level data automation and scheduling.
 
-⭐ More projects (Java Spring Boot, React demos, etc.) coming soon!
-
 ## Education & Certifications
 
 - Bachelor of Science in Physics — University of Madras
@@ -65,8 +63,8 @@ Outside coding, I regularly volunteer at my local temple — giving back to the 
 
 - 📧 [jagsdesh@gmail.com](mailto:jagsdesh@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jags-tang)
-- 📞 714-552-2276
 - 🌐 Portfolio: https://app.revature.com/profile/Jags/6ffa43765b6009c083e733e861e18f59
 
 
 Thanks for stopping by! Let's build something great together. 🚀
+
